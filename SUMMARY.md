@@ -5,7 +5,6 @@
    * [Режим работы "Песочница"](sandbox.md)
    * [Режим работы "Полный автомат"](vtoroi_punt.md)
    * [Режим работы "С подтверждением"](igfkn.md)
-* [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 * [Отчеты и метрики](otcheti_i_metriki.md)
 * [Импорт данных](import_dannih.md)
    * [Импорт клиентов](import_klientov.md)
@@ -16,4 +15,5 @@
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
 * [Создание продукта](sozdanie_produkta.md)
+* [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 
