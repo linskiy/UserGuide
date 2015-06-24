@@ -16,4 +16,5 @@
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
+* Рассчетный счет клиента
 
