@@ -18,6 +18,6 @@
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 * [Рассчетный счет клиента](rasschetnii_schet_klienta.md)
    * Зачисления
-   * Списания
+   * [Списания](spisaniya.md)
    * [Первичные документы](pervichnie_dokumenti.md)
 
