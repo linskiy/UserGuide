@@ -20,4 +20,5 @@
    * [Зачисления](zachisleniya.md)
    * [Списания](spisaniya.md)
    * [Первичные документы](pervichnie_dokumenti.md)
+   * Кредитный конторль
 
