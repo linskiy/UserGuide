@@ -21,5 +21,5 @@
 ![](client-docs.png)
 
 ###Раздел Документы ![](menu-documents.png)с сформированным превичными документами
-[](list-documents.png)
+[Раздел документы](list-documents.png)
 
