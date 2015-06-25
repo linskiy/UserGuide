@@ -15,6 +15,7 @@
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
    * [Пользователи и API-KEYs](polzovateli_i_api-keys.md)
+   * Переменные
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 * [Кредитный конторль](kreditnii_kontorl.md)
