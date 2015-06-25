@@ -14,7 +14,7 @@
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
-   * Пользователи и API-KEYs
+   * [Пользователи и API-KEYs](polzovateli_i_api-keys.md)
 * [Пользователи](polzovateli.md)
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
