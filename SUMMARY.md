@@ -23,6 +23,6 @@
    * [Зачисления](zachisleniya.md)
    * [Списания](spisaniya.md)
    * [Первичные документы](pervichnie_dokumenti.md)
-* Блокировки
+* [Блокировки](blokirovki.md)
    * Блокировки клиента
 
