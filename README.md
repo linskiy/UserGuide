@@ -14,5 +14,6 @@
    * [Бизнес правила](biznes_pravila.md)
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
-   * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
+   * [Общие настройки биллинга](obschie_nastroiki_billinga.md)  
+   * Пользователи и API-KEYs  
 * [Создание продукта](sozdanie_produkta.md)
