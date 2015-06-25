@@ -10,7 +10,7 @@
 * [Импорт данных](import_dannih.md)
    * [Импорт клиентов](import_klientov.md)
    * [Импорт подписок](import_podpisok.md)
-* [Настройки системы](nastroiki_sistemi.md)
+* [Настройки системы](nastroiki_sistemi.md)  
    * [Бизнес правила](biznes_pravila.md)
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
