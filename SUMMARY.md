@@ -15,7 +15,6 @@
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
 * [Пользователи](polzovateli.md)
-   * Пользователи
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 * [Кредитный конторль](kreditnii_kontorl.md)
