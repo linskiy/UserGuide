@@ -25,5 +25,5 @@
    * [Первичные документы](pervichnie_dokumenti.md)
 * [Блокировки](blokirovki.md)
    * [Блокировки клиента](blokirovki_klienta.md)
-   * Блокировки подписки
+   * [Блокировки подписки](blokirovki_podpiski.md)
 
