@@ -21,5 +21,5 @@
    * [Зачисления](zachisleniya.md)
    * [Списания](spisaniya.md)
    * [Первичные документы](pervichnie_dokumenti.md)
-* Пользователи
+* [Пользователи](polzovateli.md)
 
