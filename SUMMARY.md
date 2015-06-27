@@ -27,5 +27,5 @@
    * [Блокировки клиента](blokirovki_klienta.md)
    * [Блокировки подписки](blokirovki_podpiski.md)
 * Подписки
-* Клиенты
+* [Клиенты](klients..md)
 
