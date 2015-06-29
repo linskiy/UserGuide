@@ -16,7 +16,7 @@
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
    * [Пользователи и API-KEYs](polzovateli_i_api-keys.md)
    * [Переменные](peremennie.md)
-   * Поля юридическое лицо
+   * [Поля юридическое лицо](polya_yuridicheskoe_litso.md)
    * [Поля физическое лицо](polya_fizicheskoe_litso.md)
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
