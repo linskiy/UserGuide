@@ -17,6 +17,7 @@
    * [Пользователи и API-KEYs](polzovateli_i_api-keys.md)
    * [Переменные](peremennie.md)
    * Поля юридическое лицо
+   * Поля физическое лицо
 * [Создание продукта](sozdanie_produkta.md)
 * [Личный кабинет клиента](lichnii_kabinet_klienta.md)
 * [Кредитный конторль](kreditnii_kontorl.md)
