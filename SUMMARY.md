@@ -30,5 +30,5 @@
    * [Блокировки подписки](blokirovki_podpiski.md)
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
-* Документы
+* [Документы](dokumenti.md)
 
