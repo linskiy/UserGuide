@@ -31,5 +31,5 @@
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
 * [Документы](dokumenti.md)
-* Финансы
+* [Финансы](finansi.md)
 
