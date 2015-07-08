@@ -24,4 +24,5 @@
 * [Клиенты](klients..md)  
 * [Документы](dokumenti.md)  
 * [Финансы](finansi.md)  
-* 
+* [Кредитный контроль](kreditnii_kontorl.md)
+   * [Бизнес правила](biznes_pravila.md)
