@@ -16,4 +16,5 @@
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)  
+   * [Переменные](peremennie.md)
 * [Создание продукта](sozdanie_produkta.md)
