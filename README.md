@@ -25,4 +25,4 @@
 * [Документы](dokumenti.md)  
 * [Финансы](finansi.md)  
 * [Кредитный контроль](kreditnii_kontorl.md)
-   * [Бизнес правила](biznes_pravila.md)
+   * [Блокировки](blokirovki.md)
