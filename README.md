@@ -19,4 +19,9 @@
    * [Переменные](peremennie.md)  
    * [Поля юридическое лицо](polya_yuridicheskoe_litso.md)  
    * [Поля физическое лицо](polya_fizicheskoe_litso.md)
-* [Создание продукта](sozdanie_produkta.md)
+* [Создание продукта](sozdanie_produkta.md)  
+* [Подписки](subscriptions.md)  
+* [Клиенты](klients..md)  
+* [Документы](dokumenti.md)  
+* [Финансы](finansi.md)  
+* 
