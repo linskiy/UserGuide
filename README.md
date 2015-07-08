@@ -29,4 +29,8 @@
     * [Блокировки клиента](blokirovki_klienta.md)  
     * [Блокировки подписки](blokirovki_podpiski.md)  
    * [Операции с рассчетным счетом](rasschetnii_schet_klienta.md)  
+    * [Зачисления](zachisleniya.md)  
+    * [Списания](spisaniya.md)  
+    * [Первичные документы](spisaniya.md)  
+    * 
 
