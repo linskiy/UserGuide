@@ -26,3 +26,7 @@
 * [Финансы](finansi.md)  
 * [Кредитный контроль](kreditnii_kontorl.md)
    * [Блокировки](blokirovki.md)
+    * [Блокировки клиента](blokirovki_klienta.md)  
+    * [Блокировки подписки](blokirovki_podpiski.md)  
+   * [Операции с рассчетным счетом](rasschetnii_schet_klienta.md)  
+
