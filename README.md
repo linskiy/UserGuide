@@ -1,6 +1,6 @@
 # PricePlan руководство пользователя
 
-* [Introduction](README.md)
+* [Оглавление](README.md)
 * [Пакетный биллинг. Три режима работы.](packet_billing.md)
    * [Режим работы "Песочница"](sandbox.md)
    * [Режим работы "Полный автомат"](vtoroi_punt.md)
@@ -32,5 +32,5 @@
     * [Зачисления](zachisleniya.md)  
     * [Списания](spisaniya.md)  
     * [Первичные документы](spisaniya.md)  
-    * 
+    
 
