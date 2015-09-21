@@ -36,5 +36,5 @@
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
-* README
+* [README](README.md)
 
