@@ -1,5 +1,6 @@
 # Summary
 
+* [Оглавление](README.md)
 * [Пакетный биллинг. Три режима работы.](packet_billing.md)
    * [Режим работы "Песочница"](sandbox.md)
    * [Режим работы "Полный автомат"](vtoroi_punt.md)
@@ -30,7 +31,6 @@
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
 * [Документы](dokumenti.md)
-* [Оглавление](README.md)
 * [Прием платежей](finansi.md)
    * [Загрузка платежей из банковской выписки](zagruzka_platezhei_iz_bankovskoi_vipiski.md)
    * [Интеграция с платежными системами](payment_systems.md)
