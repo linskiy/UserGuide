@@ -31,7 +31,7 @@
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
 * [Документы](dokumenti.md)
-* [Финансы](finansi.md)
+* [Прием платежей](finansi.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
