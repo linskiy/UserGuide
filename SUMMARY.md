@@ -32,9 +32,8 @@
 * [Документы](dokumenti.md)
 * [Оглавление](README.md)
 * [Прием платежей](finansi.md)
-   * Загрузка платежей из банковской выписки
+   * [Загрузка платежей из банковской выписки](zagruzka_platezhei_iz_bankovskoi_vipiski.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
-* [README](README.md)
 
