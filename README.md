@@ -1,6 +1,7 @@
 
 # Оглавление
 
+* [Оглавление](README.md)
 * [Пакетный биллинг. Три режима работы.](packet_billing.md)
    * [Режим работы "Песочница"](sandbox.md)
    * [Режим работы "Полный автомат"](vtoroi_punt.md)
@@ -32,8 +33,7 @@
 * [Клиенты](klients..md)
 * [Финансы](zagruzka_platezhei_iz_banka.md)
 * [Документы](dokumenti.md)
-   * Финансы
-* [Прием платежей](finansi.md)
+* [Прием и зачисление платежей](finansi.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
