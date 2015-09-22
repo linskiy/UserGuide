@@ -3,4 +3,4 @@
 * [Интеграция с платежными системами](payment_systems.md)
    * [Robokassa](robokassa.md)
    * [Яндекс.Касса](yandex_money.md)
-* [Загрузка платежей из 1С](!https://youtu.be/7wSDOFz_V2c)
+* [Загрузка платежей из 1С](https://youtu.be/7wSDOFz_V2c)
