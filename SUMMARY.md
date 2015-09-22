@@ -30,6 +30,7 @@
    * [Блокировки подписки](blokirovki_podpiski.md)
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
+* Финансы
 * [Документы](dokumenti.md)
    * Финансы
 * [Прием платежей](finansi.md)
