@@ -31,6 +31,7 @@
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
 * [Документы](dokumenti.md)
+   * Финансы
 * [Прием платежей](finansi.md)
    * [Загрузка платежей из банковской выписки](zagruzka_platezhei_iz_banka.md)
    * [Интеграция с платежными системами](payment_systems.md)
