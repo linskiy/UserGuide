@@ -1,12 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Summary](#summary)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Summary
+# Оглавление
 
 * [Пакетный биллинг. Три режима работы.](packet_billing.md)
    * [Режим работы "Песочница"](sandbox.md)
@@ -37,10 +30,10 @@
    * [Блокировки подписки](blokirovki_podpiski.md)
 * [Подписки](subscriptions.md)
 * [Клиенты](klients..md)
+* [Финансы](zagruzka_platezhei_iz_banka.md)
 * [Документы](dokumenti.md)
-* [Оглавление](README.md)
+   * Финансы
 * [Прием платежей](finansi.md)
-   * [Загрузка платежей из банковской выписки](zagruzka_platezhei_iz_banka.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
