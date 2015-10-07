@@ -38,7 +38,7 @@
        * ["Яндекс.Касса"](yandex_money.md)
 * [Модуль интеграции с 1С](1с_integration.md)
 * Действия с подписками
-   * Отмена (Cancellation)
+   * [Отмена (Cancellation)](subscription_cancellation.md)
    * [Апгрейд (Upgrade)](subscription_upgrade.md)
    * Переход на другой план (Crossgrade)
 
