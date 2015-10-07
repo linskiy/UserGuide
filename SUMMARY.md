@@ -40,5 +40,5 @@
 * Действия с подписками
    * [Отмена (Cancellation)](subscription_cancellation.md)
    * [Апгрейд (Upgrade)](subscription_upgrade.md)
-   * Переход на другой план (Crossgrade)
+   * [Переход на другой план (Crossgrade)](subscription_crossgrade.md)
 
