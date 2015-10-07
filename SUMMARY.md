@@ -41,4 +41,5 @@
    * [Отмена (Cancellation)](subscription_cancellation.md)
    * [Апгрейд (Upgrade)](subscription_upgrade.md)
    * [Переход на другой план (Crossgrade)](subscription_crossgrade.md)
+   * Даунгрейд (Downgrade)
 
