@@ -36,5 +36,12 @@
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
        * ["Яндекс.Касса"](yandex_money.md)
-* [Модуль интеграции с "1С"](1с_integration.md)
+* [Модуль интеграции с 1С](1с_integration.md)
+* [Действия с активными подписками](deistviya_s_aktivnimi_podpiskami.md)
+   * [Отмена (Cancellation)](subscription_cancellation.md)
+   * [Апгрейд (Upgrade)](subscription_upgrade.md)
+   * [Переход на другой план (Crossgrade)](subscription_crossgrade.md)
+   * [Даунгрейд (Downgrade)](subscription_downgrade.md)
+   * [Расчетный день для ежемесячных подписок](subscription_billing_day.md)
+
 
