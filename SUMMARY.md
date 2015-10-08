@@ -7,7 +7,7 @@
    * [Режим работы "С подтверждением"](igfkn.md)
 * [Настройки системы](nastroiki_sistemi.md)
    * [Бизнес правила](biznes_pravila.md)
-       * Порядок выполнения правил
+       * [Порядок выполнения правил](poryadok_vipolneniya_pravil.md)
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
