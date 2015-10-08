@@ -42,4 +42,5 @@
    * [Апгрейд (Upgrade)](subscription_upgrade.md)
    * [Переход на другой план (Crossgrade)](subscription_crossgrade.md)
    * [Даунгрейд (Downgrade)](subscription_downgrade.md)
+   * День биллинга для ежемесячных подписок
 
