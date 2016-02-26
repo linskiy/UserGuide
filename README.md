@@ -8,7 +8,7 @@
 * [Настройки системы](nastroiki_sistemi.md)
    * [Бизнес правила](biznes_pravila.md)  
      * [Порядок выполнения правил. Транзакции.](poryadok_vipolneniya_pravil.md)
-     * [События и триггеры](biznes_pravila.md)
+     * [События и триггеры](triggering_events.md)
      * [Использование "Web hooks" в бизнес правилах](webhooks.md)
    * [Настройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
