@@ -9,7 +9,7 @@
    * [Бизнес правила](biznes_pravila.md)
        * [Порядок выполнения правил](poryadok_vipolneniya_pravil.md)
        * [Когда срабатывают триггеры на события](triggering_events.md)
-       * Использование "Web Hooks" в бизнес правилах
+       * [Использование "Web Hooks" в бизнес правилах](webhooks.md)
    * [Натройки нумерации документов](natroiki_numeratsii_dokumentov.md)
    * [Шаблоны документов](shabloni_dokumentov.md)
    * [Общие настройки биллинга](obschie_nastroiki_billinga.md)
