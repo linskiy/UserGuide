@@ -61,4 +61,4 @@
 Для отправки наименования клиента и его баланса через web hook достаточно указать в URL:  
 http://example.com?client_name={{client.name}}&client_balance={{client.balance}}
 
-Для тестирования веб хуков удобно использовать сервис  http://requestb.in/ 
+Для тестирования веб хуков удобно использовать сервис  http://requestb.in/ или http://www.ultrahook.com/
