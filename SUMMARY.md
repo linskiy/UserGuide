@@ -28,7 +28,7 @@
    * [Зачисления](zachisleniya.md)
    * [Списания](spisaniya.md)
    * [Первичные документы](pervichnie_dokumenti.md)
-   * Перерасчет списаний и проратирование.
+   * [Перерасчет списаний и проратирование.](proratirovanie.md)
 * [Блокировки](blokirovki.md)
    * [Блокировки клиента](blokirovki_klienta.md)
    * [Блокировки подписки](blokirovki_podpiski.md)
