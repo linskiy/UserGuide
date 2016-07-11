@@ -62,3 +62,7 @@
 http://example.com?client_name={{client.name}}&client_balance={{client.balance}}
 
 Для тестирования веб хуков удобно использовать сервис  http://requestb.in/ или http://www.ultrahook.com/
+
+### Обработка ошибок
+
+Если web hook не получил ответ 200, то PricePlan попробует повторить вызов 3 раза с интервалом 10 секунд. После этого PricePlnan перестанет пробовать и зарегистрирует ошибку в системном логе.
