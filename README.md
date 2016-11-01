@@ -60,4 +60,4 @@
    * [OpenStack](openstack.md)
    * [Amazon SES](amazon_ses.md)
    * [Amazon SNS](amazon_sns.md)
-
+   * [Виджет личного кабинета](vidzhet_lichnogo_kabineta.md)
