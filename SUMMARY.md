@@ -47,5 +47,5 @@
    * [Переход на другой план (Crossgrade)](subscription_crossgrade.md)
    * [Даунгрейд (Downgrade)](subscription_downgrade.md)
    * [Расчетный день для ежемесячных подписок](subscription_billing_day.md)
-* Интеграции
+* [Интеграции](integrations.md)
 
