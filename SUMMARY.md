@@ -48,4 +48,5 @@
    * [Даунгрейд (Downgrade)](subscription_downgrade.md)
    * [Расчетный день для ежемесячных подписок](subscription_billing_day.md)
 * [Интеграции](integrations.md)
+   * Интеграция с 1С
 
