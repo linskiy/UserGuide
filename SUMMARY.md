@@ -56,4 +56,5 @@
    * Slack
    * Zendesk
    * Microsoft Azure
+   * SMTP Server
 
