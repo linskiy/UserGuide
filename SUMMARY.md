@@ -49,6 +49,6 @@
        * [Яндекс.Деньги](yandex_money.md)
        * [Яндекс.Касса](yandexkassa.md)
        * [PayPal](paypal.md)
-       * Qiwi Wallet
+       * [Qiwi Wallet](qiwi_wallet.md)
    * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
 
