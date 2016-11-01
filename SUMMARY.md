@@ -49,7 +49,7 @@
        * [Яндекс.Деньги](yandex_money.md)
        * [Яндекс.Касса](yandexkassa.md)
        * [PayPal](paypal.md)
-       * Cloud payments
+       * [Cloud payments](cloud_payments.md)
        * [Qiwi Wallet](qiwi_wallet.md)
    * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
    * [WebSMS](websms.md)
