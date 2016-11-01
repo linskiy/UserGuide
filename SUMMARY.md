@@ -56,7 +56,7 @@
    * Slack
    * Zendesk
    * Microsoft Azure
-   * SMTP Server
+   * [SMTP Server](smtp_server.md)
    * [OpenStack](openstack.md)
    * [Amazon SES](amazon_ses.md)
 
