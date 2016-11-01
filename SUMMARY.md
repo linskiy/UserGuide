@@ -46,7 +46,7 @@
 * [Интеграции](integrations.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
-       * Яндекс деньги
+       * [Яндекс деньги](yandex_money.md)
        * ["Яндекс.Касса"](yandexkassa.md)
            * Яндекс деньги
    * [Интеграция с 1С](integratsiya_s_1s.md)
