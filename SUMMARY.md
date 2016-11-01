@@ -58,5 +58,5 @@
    * Microsoft Azure
    * SMTP Server
    * OpenStack
-   * Amazon SES
+   * [Amazon SES](amazon_ses.md)
 
