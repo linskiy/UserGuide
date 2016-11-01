@@ -52,4 +52,5 @@
        * [Qiwi Wallet](qiwi_wallet.md)
    * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
    * [WebSMS](websms.md)
+   * Slack
 
