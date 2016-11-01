@@ -55,4 +55,5 @@
    * [WebSMS](websms.md)
    * Slack
    * Zendesk
+   * Microsoft Azure
 
