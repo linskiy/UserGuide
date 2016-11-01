@@ -44,7 +44,7 @@
    * [Даунгрейд (Downgrade)](subscription_downgrade.md)
    * [Расчетный день для ежемесячных подписок](subscription_billing_day.md)
 * [Интеграции](integrations.md)
-   * [Интеграция с платежными системами](payment_systems.md)
+   * [Платежные агрегаторы](payment_systems.md)
        * [Робокасса](robokassa.md)
        * [Яндекс.Деньги](yandex_money.md)
        * [Яндекс.Касса](yandexkassa.md)
