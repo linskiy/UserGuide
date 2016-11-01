@@ -59,5 +59,5 @@
    * [SMTP Server](smtp_server.md)
    * [OpenStack](openstack.md)
    * [Amazon SES](amazon_ses.md)
-   * Amazon SNS
+   * [Amazon SNS](amazon_sns.md)
 
