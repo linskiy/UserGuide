@@ -48,5 +48,6 @@
        * [Робокасса](robokassa.md)
        * [Яндекс.Деньги](yandex_money.md)
        * [Яндекс.Касса](yandexkassa.md)
+       * PayPal
    * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
 
