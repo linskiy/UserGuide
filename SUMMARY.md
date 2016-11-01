@@ -48,5 +48,5 @@
        * [Робокасса](robokassa.md)
        * [Яндекс.Деньги](yandex_money.md)
        * [Яндекс.Касса](yandexkassa.md)
-   * [Интеграция с 1С](integratsiya_s_1s.md)
+   * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
 
