@@ -1,4 +1,4 @@
-# Оглавление
+# Summary
 
 * [Оглавление](README.md)
 * [Пакетный биллинг. Три режима работы.](packet_billing.md)
@@ -60,4 +60,5 @@
    * [OpenStack](openstack.md)
    * [Amazon SES](amazon_ses.md)
    * [Amazon SNS](amazon_sns.md)
+   * Виджет личного кабинета
 
