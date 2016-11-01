@@ -50,6 +50,7 @@
        * [Яндекс.Касса](yandexkassa.md)
        * [PayPal](paypal.md)
        * [Qiwi Wallet](qiwi_wallet.md)
+       * Cloud payments
    * [1С Бухгалтерия предприятия 8](integratsiya_s_1s.md)
    * [WebSMS](websms.md)
    * Slack
