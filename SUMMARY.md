@@ -46,6 +46,6 @@
 * [Интеграции](integrations.md)
    * [Интеграция с платежными системами](payment_systems.md)
        * ["Робокасса"](robokassa.md)
-       * ["Яндекс.Касса"](yandex_kassa.md)
+       * ["Яндекс.Касса"](yandexkassa.md)
    * [Интеграция с 1С](integratsiya_s_1s.md)
 
