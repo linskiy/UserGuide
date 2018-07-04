@@ -1,68 +1,62 @@
 # Использование "Web hooks" в бизнес правилах
 
-"Web hook" – это метод вызова сторонних приложений и передачи им данных PricePlan через протокол http. PricePlan позволяет отправлять данные через "Web hook" на любое событие биллинга. 
+"Web hook" – это метод вызова сторонних приложений и передачи им данных PricePlan через протокол http. PricePlan позволяет отправлять данные через "Web hook" на любое событие биллинга.
 
 Для отправки "web hook" в необходимом вам правиле нужно настроить выполнение действие "Отправить web hook". В качестве URL укажите адрес обработчика запросов стороннего приложения. Здесь же можно указать необходимые переменные. В зависимости от контекста вызова правила в шаблон web hook передаются данные о клиенте, продукте, подписке, или выставляемых документах.
 
 Для отправки данных можно указать URL вида
 
-```http://example.com?client_id={{client.id}}```
+`http://example.com?client_id={{client.id}}`
 
-где ```client``` - переменная клиента  
-```id``` - его идентификатор  
-```фигурные скобки``` - идентификатор переменной в шаблоне
-
+где `client` - переменная клиента  
+`id` - его идентификатор  
+`фигурные скобки` - идентификатор переменной в шаблоне
 
 ### Список доступных переменных клиента:
 
-
- * ```client.id```  - id;
- * ```client.name```  - наименование;
- * ```client.balace```  - баланс;
- * ```client.account_number```  - номер счета;
- * ```client.next_date_renewal```  - дата следующего продления подписки;
- * ```client.type```  - тип клиента (1 - ЮЛ, 2 - ФЛ);
- * все переменные клиента;
-
-
+* `client.id`  - id;
+* `client.name`  - наименование;
+* `client.balace`  - баланс;
+* `client.account_number`  - номер счета;
+* `client.next_date_renewal`  - дата следующего продления подписки;
+* `client.type`  - тип клиента \(1 - ЮЛ, 2 - ФЛ\);
+* все переменные клиента;
 
 ### Список доступных переменных подписки:
 
-
- * ```subscribe.id```  - id;
- * ```subscribe.next_date_renewal```  - дата следующего продления;
- * ```все переменные подписки```.
-
+* `subscribe.id`  - id;
+* `subscribe.next_date_renewal`  - дата следующего продления;
+* `все переменные подписки`.
 
 ### Список доступных переменных счета:
 
-
- * ```invoice.id```  - id;
- * ```invoice.number```  - номер;
- * ```invoice.status```  - статус (1 - новый, 2 - обрабатывается, 3 - оплачен, 4 - отменен, 5 - провален);
- * ```invoice.comment```  - комментарий.
-
+* `invoice.id`  - id;
+* `invoice.number`  - номер;
+* `invoice.status`  - статус \(1 - новый, 2 - обрабатывается, 3 - оплачен, 4 - отменен, 5 - провален\);
+* `invoice.comment`  - комментарий.
 
 ### Список доступных переменных акта:
 
-
- * ```implement.id```  - id;
- * ```implement.number```  - номер;
- * ```implement.date```  - дата.
-
+* `implement.id`  - id;
+* `implement.number`  - номер;
+* `implement.date`  - дата.
 
 ### Список доступных переменных счет-фактуры:
 
+* `invoice_fact.id`  - id;
+* `invoice_fact.number`  - номер;
+* `invoice_fact.date`  - дата  
 
- * ```invoice_fact.id```  - id;
- * ```invoice_fact.number```  - номер;
- * ```invoice_fact.date```  - дата  
- 
 Для отправки наименования клиента и его баланса через web hook достаточно указать в URL:  
-http://example.com?client_name={{client.name}}&client_balance={{client.balance}}
+[http://example.com?client\_name={{client.name}}&client\_balance={{client.balance}}](http://example.com?client_name={{client.name}}&client_balance={{client.balance}})
 
-Для тестирования веб хуков удобно использовать сервис  http://requestb.in/ или http://www.ultrahook.com/
+Для тестирования веб хуков удобно использовать сервисы
+
+* [http://webhookinbox.com/](https://legacy.gitbook.com/book/edmin/userguide/edit#)
+* [http://requestb.in/](http://requestb.in/) 
+* [http://www.ultrahook.com/](http://www.ultrahook.com/)
 
 ### Обработка ошибок
 
 Если web hook не получил ответ 200, то PricePlan попробует повторить вызов 3 раза с интервалом 10 секунд. После этого PricePlnan перестанет пробовать и зарегистрирует ошибку в системном логе.
+
