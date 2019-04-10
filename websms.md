@@ -1,6 +1,0 @@
-# WebSMS
-
-tbd
-
-
-
