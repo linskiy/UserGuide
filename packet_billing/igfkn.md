@@ -33,7 +33,7 @@
 
 Включить режим "с подтверждением"" можно в настойках биллинга.
 
-![](../.gitbook/assets/topmenu-settings.png)
+![](../assets/topmenu-settings.png)
 
-![](../.gitbook/assets/settings-billing.png)
+![](../assets/settings-billing.png)
 

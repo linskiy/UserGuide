@@ -16,7 +16,7 @@
 
 Рассмотрим пример \(1\).
 
-![charges.png](../.gitbook/assets/charges.png)
+![charges.png](../assets/charges.png)
 
 При создании подписки на план "ФИЛАНКО", система автоматически создала 2 списания:
 
